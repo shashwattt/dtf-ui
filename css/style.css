@@ -489,7 +489,7 @@ h1, h2, h3, h4, h5,
         float: left;
         position: relative;
         font-size: 1.05em; } 
-        .site-logo img{
+      .site-navbar .site-logo img{
           height: 40px;
           margin-right: 16px;
         }
