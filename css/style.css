@@ -488,7 +488,12 @@ h1, h2, h3, h4, h5,
       .site-navbar .site-logo {
         float: left;
         position: relative;
-        font-size: 1.05em; } }
+        font-size: 1.05em; } 
+        .site-logo img{
+          height: 40px;
+          margin-right: 16px;
+        }
+      }
   .site-navbar .site-navigation.border-bottom {
     border-bottom: 1px solid white !important; }
   .site-navbar .site-navigation .site-menu {
@@ -1844,4 +1849,8 @@ h1, h2, h3, h4, h5,
 .site-logo img{
   height: 60px;
   margin-right: 32px;
+}
+
+.developer{
+  font-size: .7em;
 }
